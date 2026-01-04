@@ -1,1 +1,0 @@
-Flappy parody server
